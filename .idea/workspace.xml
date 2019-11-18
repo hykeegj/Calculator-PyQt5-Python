@@ -2,12 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="198566e7-f77c-4782-b8c0-a610901d6990" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pyqt5_calc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FC_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FC/_image/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FC/_image/delete_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FC/_image/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FC_main.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/FC_main/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/FC_main/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/FC_main/FC_main.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/FC_main/PKG-00.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/FC_main/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/FC_main/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/FC_main/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/FC_main/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/FC_main/warn-FC_main.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/FC_main/xref-FC_main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/df/UI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/df/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/df/delete_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/df/icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/FC_main.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FC/_uiFiles/untitled.ui" beforeDir="false" afterPath="$PROJECT_DIR$/FC/_uiFiles/untitled.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FC_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/FC_main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,12 +45,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TmFLK6al2k4kjR1NXbtINMsqkL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/df" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\GitHub\pyqt5_calc" />
+      <recent name="C:\Users\user\Documents\GitHub\pyqt5_calc\modules" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -91,10 +120,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
