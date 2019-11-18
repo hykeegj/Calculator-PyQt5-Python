@@ -35,11 +35,10 @@ class MainDialog(QDialog, UI.Ui_Dialog):
         self.reset_pushButton.clicked.connect(self.Reset)
         self.del_pushButton.clicked.connect(self.Delete)
 
-        # self.del_pushButton.setStyleSheet('image:url(FC/_image/delete.png); border:0px;')
         self.del_pushButton.setStyleSheet(
             '''
-            QPushButton{image:url(FC/_image/delete.png); border:0px;}
-            QPushButton:hover{image:url(FC/_image/delete_red.png); border:0px;}
+            QPushButton{image:url(delete.png); border:0px;}
+            QPushButton:hover{image:url(delete_red.png); border:0px;}
             ''')
 
     def NumClicked(self, state, button):

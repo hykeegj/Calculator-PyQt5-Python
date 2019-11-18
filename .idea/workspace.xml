@@ -1,32 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="198566e7-f77c-4782-b8c0-a610901d6990" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FC/_image/delete.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FC/_image/delete_red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FC/_image/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FC_main.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/FC_main/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/FC_main/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/FC_main/FC_main.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/FC_main/PKG-00.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/FC_main/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/FC_main/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/FC_main/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/FC_main/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/FC_main/warn-FC_main.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/FC_main/xref-FC_main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/df/UI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/df/delete.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/df/delete_red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/df/icon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/FC_main.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
+    <list default="true" id="a28a90c3-8340-4054-a852-2b5357e23542" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete_red.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pyqt5_calc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FC/_uiFiles/untitled.ui" beforeDir="false" afterPath="$PROJECT_DIR$/FC/_uiFiles/untitled.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FC/_image/delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FC/_image/delete_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FC/_image/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FC/_uiFiles/untitled.ui" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/FC_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/FC_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FC_main.spec" beforeDir="false" afterPath="$PROJECT_DIR$/FC_main.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/FC_main/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/FC_main/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/FC_main/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/FC_main/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/FC_main/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/FC_main/PKG-00.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/FC_main/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/FC_main/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/FC_main/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/FC_main/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/FC_main/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/FC_main/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/FC_main/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/FC_main/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/FC_main/warn-FC_main.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/FC_main/warn-FC_main.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/FC_main/xref-FC_main.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/FC_main/xref-FC_main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/FC_main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/.idea/df.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/FC_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/FC_main.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/UI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/build/FC_main/Analysis-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/build/FC_main/EXE-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/build/FC_main/FC_main.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/build/FC_main/PKG-00.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/build/FC_main/PKG-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/build/FC_main/PYZ-00.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/build/FC_main/PYZ-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/build/FC_main/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/build/FC_main/warn-FC_main.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/build/FC_main/xref-FC_main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/delete_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/icon.ico" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,33 +55,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1TmFLK6al2k4kjR1NXbtINMsqkL" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectId" id="1TmULri35vzeZ79xcbVgAAmxeUH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/df" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Documents\GitHub\pyqt5_calc" />
-      <recent name="C:\Users\user\Documents\GitHub\pyqt5_calc\modules" />
-    </key>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -76,7 +81,7 @@
   </component>
   <component name="RunManager">
     <configuration name="FC_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyqt5_calc" />
+      <module name="df" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -107,11 +112,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="198566e7-f77c-4782-b8c0-a610901d6990" name="Default Changelist" comment="" />
-      <created>1574057306420</created>
+      <changelist id="a28a90c3-8340-4054-a852-2b5357e23542" name="Default Changelist" comment="" />
+      <created>1574064711681</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574057306420</updated>
+      <updated>1574064711681</updated>
     </task>
     <servers />
   </component>

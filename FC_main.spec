@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['FC_main.py'],
-             pathex=['C:\\Users\\user\\Documents\\GitHub\\pyqt5_calc'],
+             pathex=['C:\\Users\\user\\Documents\\GitHub\\pyqt5_calc\\df'],
              binaries=[],
              datas=[],
              hiddenimports=[],
