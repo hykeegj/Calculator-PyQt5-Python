@@ -1,2 +1,5 @@
-# pyqt5_calc
-PyQt5 계산기
+# PyQt5 GUI 계산기
+
+## 개요
+
+- GUI 계산기
