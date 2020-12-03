@@ -1,5 +1,12 @@
 # 계산기
 
-## 개요
+## 종류
 
-- PyQt5로 제작한 GUI 계산기
+- PyQt5
+  ![Alt text](python\preview.jpg)
+- javascript
+  ![Alt text](javascript\preview.jpg)
+
+## 라이선스
+
+- MIT LICENSE
