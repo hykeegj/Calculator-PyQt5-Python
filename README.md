@@ -3,9 +3,9 @@
 ## 종류
 
 - PyQt5
-  ![Alt text](python\preview.jpg)
+  ![PyQt5 Calculator](python/preview.jpg)
 - javascript
-  ![Alt text](javascript\preview.jpg)
+  ![Javascript Calculator](javascript/preview.jpg)
 
 ## 라이선스
 
