@@ -2,9 +2,9 @@
 
 ## 종류
 
-- PyQt5  
+- **PyQt5**  
   ![Alt text](python/preview.jpg)
-- javascript  
+- **JavaScript**  
   ![Alt text](javascript/preview.jpg)
 
 ## 라이선스
