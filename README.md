@@ -1,5 +1,7 @@
 # 계산기
 
+[![GitHub](https://img.shields.io/github/license/hykeegj/calculator)](LICENSE)
+
 ## 종류
 
 - **PyQt5**  
