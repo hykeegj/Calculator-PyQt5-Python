@@ -5,10 +5,10 @@
 ## 종류
 
 - **PyQt5**  
-  ![Alt text](python/preview.jpg)
+  ![PyQt5 계산기](python/preview.jpg)
 - **JavaScript**  
-  ![Alt text](javascript/preview.jpg)
+  ![JavaScript 계산기](javascript/preview.jpg)
 
 ## 라이선스
 
-- MIT LICENSE
+- [MIT LICENSE](LICENSE)
